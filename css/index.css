@@ -129,7 +129,6 @@ body{
 	max-width: 825px;
   height: auto;
   margin: auto;
-	border: 2px solid red;
 
 }
 
@@ -156,7 +155,7 @@ header{
 	margin: 25px 0px;
 }
 .header  {
-  	border: 2px solid pink;
+
     display: flex;
     justify-content: space-between;
 
@@ -233,7 +232,12 @@ header nav a {
 	margin-top: 50px ;
 	margin-bottom: 10px ;
 }
+.distancB{
+	margin-top: 50px ;
+	margin-bottom: 50px ;
+}
 .myButton {
+	margin-top: 10px;
 	-moz-box-shadow: -10px 9px 10px -6px #1c1b18;
 	-webkit-box-shadow: -10px 9px 10px -6px #1c1b18;
 	box-shadow: -10px 9px 10px -6px #1c1b18;
